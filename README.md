@@ -21,7 +21,7 @@ ClimaTrack is a simple web application that allows users to get weather informat
 
 - `index.html`: Main HTML file containing the structure of the web page.
 - `styles.css`: Custom CSS file for styling.
-- `scripts/forecast.js`: JavaScript file handling UI updates and user interactions.
-- `scripts/app.js`: JavaScript file containing functions to fetch weather and city information.
+- `scripts/forecast.js`: JavaScript file containing functions to fetch weather and city information.
+- `scripts/app.js`: JavaScript file handling UI updates and user interactions.
 - `img/`: Directory containing weather icons and day/night images.
 
