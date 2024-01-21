@@ -1,6 +1,6 @@
 # ClimaTrack
 
-ClimaTrack is a simple web application that allows users to get weather information for a specific location. It displays the current temperature, weather condition, and an icon representing day or night. Climatrack is utilizing accuweathers free getlocations and get weathercondtions api:s. 
+ClimaTrack is a simple web application that allows users to get weather information for a specific location. It displays the current temperature, weather condition, and an icon representing day or night. Climatrack is utilizing accuweathers free getlocations and get weathercondtions api:s. You can find pictures of the app aswell from (clima_track1 and clima_track2) files
 
 ## Features
 
